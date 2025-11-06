@@ -6,7 +6,9 @@ const Header = ({ itemCount }) => {
   return (
     <div className="bg-secondary">
       <nav className="navbar navbar-dark  px-3">
-        <Link className="navbar-brand fw-bold fs-large">East Cart</Link>
+        <Link to="/" className="navbar-brand fw-bold fs-large">
+          East Cart
+        </Link>
         <ul className="nav">
           <li className="nav-item">
             <Link to="/" className="nav-link text-light   fw-bold">
