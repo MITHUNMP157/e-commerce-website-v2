@@ -21,7 +21,7 @@ const Product = ({ onAddToCart, productDetails }) => {
       <div className="container">
         <div className="row">
           {productDetails.map((product) => (
-            <div className="col me-0 col-sm-5 col-md-4 col-lg-3">
+            <div className="col me-0 col-sm-12 col-md-4 col-lg-3">
               <div key={product.id}>
                 <div className="card mb-2" style={{ width: "180px" }}>
                   <div>
