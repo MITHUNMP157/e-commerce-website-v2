@@ -1,7 +1,12 @@
 import React from "react";
+import logo from "./home-images/image1.jpg";
 
 const Home = () => {
-  return <div>Home Page</div>;
+  return (
+    <div>
+      <img src={logo} alt="logo" style={{ width: "100%", height: "95vh" }} />
+    </div>
+  );
 };
 
 export default Home;
