@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <div>
       <img src={logo} alt="logo" style={{ width: "100%", height: "95vh" }} />
+  Test
     </div>
   );
 };
