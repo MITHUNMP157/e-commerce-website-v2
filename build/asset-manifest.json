@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09a5352f.css",
+    "main.js": "/static/js/main.a69654fe.js",
+    "static/media/tablet.jpeg": "/static/media/tablet.3fbbc0980b286ae15fe2.jpeg",
+    "static/media/Printer.jpeg": "/static/media/Printer.4697ba0ce9dd1b4500bb.jpeg",
+    "static/media/camera.png": "/static/media/camera.2ff1218b07c2fb6000f5.png",
+    "static/media/mobile.webp": "/static/media/mobile.e286f2a55308dd934d7f.webp",
+    "static/media/Keyboard.jpeg": "/static/media/Keyboard.d1c73e821be823898480.jpeg",
+    "static/media/Monitor.jpeg": "/static/media/Monitor.0fbc5444c9f78216594f.jpeg",
+    "static/media/bluetoothSpeaker.jpeg": "/static/media/bluetoothSpeaker.dfc22c5493b2cfd43995.jpeg",
+    "static/media/playstation.webp": "/static/media/playstation.8e6935dc2f17d2654279.webp",
+    "static/media/headphone.webp": "/static/media/headphone.0f2d02e089e9d1d4f79b.webp",
+    "static/media/External HDD.jpeg": "/static/media/External HDD.3b9bd5a6338f9f7f4fd1.jpeg",
+    "static/media/laptop.jpg": "/static/media/laptop.8e716d82396db975e277.jpg",
+    "static/media/Power Bank.jpeg": "/static/media/Power Bank.1c95234c0304436e3c10.jpeg",
+    "static/media/Microphone.jpeg": "/static/media/Microphone.0217358745f3d86fcf5f.jpeg",
+    "static/media/WiFi Router.jpeg": "/static/media/WiFi Router.93c341dbf5730ac7a551.jpeg",
+    "static/media/Mouse.jpeg": "/static/media/Mouse.b7b560325936962fc338.jpeg",
+    "static/media/Projector.jpeg": "/static/media/Projector.8a8772df7e6f602be87e.jpeg",
+    "static/media/barcodescanner.jpg": "/static/media/barcodescanner.c718cd81e86a9b74c2e2.jpg",
+    "static/media/Drone.jpg": "/static/media/Drone.1dd2b2e4f67bcb29dabb.jpg",
+    "static/media/Gaming Chair.jpeg": "/static/media/Gaming Chair.1b8ec5f1eb4dd9a3877e.jpeg",
+    "static/media/smartwatch.jpeg": "/static/media/smartwatch.5c897d00fc931d8c23c9.jpeg",
+    "index.html": "/index.html",
+    "main.09a5352f.css.map": "/static/css/main.09a5352f.css.map",
+    "main.a69654fe.js.map": "/static/js/main.a69654fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a5352f.css",
+    "static/js/main.a69654fe.js"
+  ]
+}
