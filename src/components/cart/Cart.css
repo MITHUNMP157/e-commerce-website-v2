@@ -1,0 +1,21 @@
+.cart-item {
+  border: 2px solid gainsboro;
+  width: 750px;
+  border-radius: 3px;
+  box-shadow: 0px 5px 5px rgba(128, 128, 128, 1.158),
+    0 6px 20px rgba(0, 0, 0, 0.19);
+}
+.btn-orange {
+  margin-top: 60px;
+  background-color: #fd7e14;
+  color: white;
+  height: 45px;
+  width: 200px;
+  border: none;
+  border-radius: 3px;
+}
+
+.btn-orange:hover {
+  background-color: #fd7d14a4;
+  color: black;
+}
